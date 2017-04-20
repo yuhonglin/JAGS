@@ -8,16 +8,17 @@ This is my own modification of JAGS.
 - [ ] Remove internal R support
 - [ ] Remove terminal support
 - [ ] Remove windows support
-- [ ] Remove libltdl, treat it as dependencies
+- [ ] Remove dynamic module
 
 ### Changes
 - [ ] Change the builder system to CMake
 
 ### New functionalities
-- [ ] Add ```load``` keyword to load module in model specification
+- [ ] Add ```load``` option
 - [ ] Add ```block``` keyword to declare updating blocks in model specification
 - [ ] Add internal multi-thread support
 - [ ] Add model caching
+- [ ] Add output format hdf5
 - [ ] Add ```dlm``` module
 - [ ] Add R support (compatible with rjags and coda)
 - [ ] Add python support
