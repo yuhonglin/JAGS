@@ -51,5 +51,7 @@ int main(int argc, char *argv[])
     LOG_ERROR(ss.str());
   }
 
+  cout << 1 << endl;
+
   return 0;
 }
