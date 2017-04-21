@@ -5,7 +5,7 @@
 #include <util/nainf.h>
 #include <graph/NodeError.h>
 #include <sampler/SingletonGraphView.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include "FiniteMethod.h"
 

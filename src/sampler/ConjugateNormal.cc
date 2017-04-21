@@ -8,7 +8,7 @@
 #include <sampler/Linear.h>
 #include <sampler/SingletonGraphView.h>
 #include <rng/TruncatedNormal.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <set>
 #include <vector>

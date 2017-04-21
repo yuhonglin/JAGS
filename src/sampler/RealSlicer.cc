@@ -2,7 +2,7 @@
 #include <sampler/SingletonGraphView.h>
 #include <graph/StochasticNode.h>
 #include <distribution/Distribution.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include "RealSlicer.h"
 

@@ -7,7 +7,7 @@
 #include <graph/StochasticNode.h>
 #include <sampler/Linear.h>
 #include <sampler/SingletonGraphView.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include "lapack.h"
 

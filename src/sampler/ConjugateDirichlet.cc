@@ -8,7 +8,7 @@
 #include <graph/AggNode.h>
 #include <graph/NodeError.h>
 #include <sampler/SingletonGraphView.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <set>
 #include <vector>

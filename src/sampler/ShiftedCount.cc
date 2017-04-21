@@ -4,7 +4,7 @@
 
 #include <graph/StochasticNode.h>
 #include <sampler/SingletonGraphView.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <JRmath.h>
 

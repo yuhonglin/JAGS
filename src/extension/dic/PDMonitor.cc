@@ -2,7 +2,7 @@
 
 #include "PDMonitor.h"
 #include <graph/StochasticNode.h>
-#include <module/ModuleError.h>
+#include <error.h>
 #include <rng/RNG.h>
 
 #include <algorithm>

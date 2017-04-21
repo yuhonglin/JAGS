@@ -3,7 +3,7 @@
 #include <graph/NodeError.h>
 #include <distribution/Distribution.h>
 #include <sampler/SingletonGraphView.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include "DiscreteSlicer.h"
 

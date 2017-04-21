@@ -7,7 +7,7 @@
 #include <graph/NodeError.h>
 #include <graph/StochasticNode.h>
 #include <graph/Graph.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <vector>
 #include <cmath>

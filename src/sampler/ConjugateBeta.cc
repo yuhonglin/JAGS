@@ -8,7 +8,7 @@
 #include <graph/MixtureNode.h>
 #include <sampler/SingletonGraphView.h>
 #include <sampler/Linear.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <set>
 #include <vector>

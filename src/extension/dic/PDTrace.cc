@@ -2,7 +2,7 @@
 
 #include "PDTrace.h"
 #include <graph/StochasticNode.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <algorithm>
 

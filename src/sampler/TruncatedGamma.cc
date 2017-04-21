@@ -10,7 +10,7 @@
 #include <sampler/Linear.h>
 #include <sampler/SingletonGraphView.h>
 #include <util/nainf.h>
-#include <module/ModuleError.h>
+#include <error.h>
 
 #include <set>
 #include <vector>

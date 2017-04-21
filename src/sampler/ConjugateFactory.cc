@@ -14,7 +14,7 @@
 #include <graph/StochasticNode.h>
 #include <distribution/Distribution.h>
 #include <sampler/SingletonGraphView.h>
-#include <module/ModuleError.h>
+#include <error.h>
 #include <sampler/ImmutableSampler.h>
 
 #include <string>
