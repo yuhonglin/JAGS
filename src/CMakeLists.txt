@@ -2,6 +2,8 @@ add_subdirectory(util)
 add_subdirectory(version)
 add_subdirectory(compiler)
 add_subdirectory(graph)
+add_subdirectory(function)
+add_subdirectory(lib)
 
 include_directories(${PROJECT_SOURCE_DIR}/src ${PROJECT_SOURCE_DIR}/src/util/)
 add_executable (jags main.cpp ${PROJECT_SOURCE_DIR}/src/util/option.hpp ${PROJECT_SOURCE_DIR}/src/util/logger.hpp)
