@@ -3,8 +3,8 @@
 #include <util/nainf.h>
 #include "DMNorm.h"
 
-#include <lapack.h>
-#include <matrix.h>
+#include <util/lapack.h>
+#include <util/matrix.h>
 
 #include <cmath>
 #include <vector>

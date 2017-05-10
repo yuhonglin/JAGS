@@ -2,7 +2,7 @@
 #include <util/logical.h>
 #include <util/nainf.h>
 #include <util/dim.h>
-#include <module/ModuleError.h>
+#include <util/error.h>
 
 #include "SumDist.h"
 

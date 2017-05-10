@@ -3,7 +3,7 @@
 #include <rng/RNG.h>
 #include <util/dim.h>
 #include <util/nainf.h>
-#include <module/ModuleError.h>
+#include <util/error.h>
 
 #include <cfloat>
 #include <algorithm>

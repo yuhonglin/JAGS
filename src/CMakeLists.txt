@@ -9,6 +9,7 @@ add_subdirectory(monitor)
 add_subdirectory(sarray)
 add_subdirectory(rng)
 add_subdirectory(sampler)
+add_subdirectory(distribution)
 
 include_directories(${PROJECT_SOURCE_DIR}/src ${PROJECT_SOURCE_DIR}/src/util/)
 add_executable (jags main.cpp ${PROJECT_SOURCE_DIR}/src/util/option.hpp ${PROJECT_SOURCE_DIR}/src/util/logger.hpp)

@@ -3,10 +3,10 @@
 #include <rng/RNG.h>
 #include <util/dim.h>
 #include <util/nainf.h>
-#include <module/ModuleError.h>
+#include <util/error.h>
 
-#include "lapack.h"
-#include "matrix.h"
+#include "util/lapack.h"
+#include "util/matrix.h"
 #include "DWish.h"
 
 #include <cfloat>
